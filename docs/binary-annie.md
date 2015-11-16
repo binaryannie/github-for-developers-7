@@ -6,3 +6,5 @@
 **Favorite food:** Raspberries 
 
 **Hobby:** Reading 
+
+**Favorite Color:** Blue
