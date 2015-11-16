@@ -1,10 +1,12 @@
 
 **Name:** Annie
 
-**Country of origin:** Canada 
+**Country of origin:** Canada
 
-**Favorite food:** Raspberries 
+**Favorite food:** Raspberries
 
-**Hobby:** Reading 
+**Hobby:** Reading
 
 **Favorite Color:** Blue
+
+More information
